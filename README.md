@@ -3,9 +3,9 @@
 þessi eining gerir notendum kleift að leita eftir listamönnum, plötum og lögum og fengið leitarniðurstöður frá Spotify og Discogs með notkun Spotify API og Discogs API. Notandinn getur síðan tekið leitarniðurstöðurnar og búið til plötu eða listamann og sett inn á heimasíðuna.
 
 Hópurinn: 
-Adam Elí Inguson
-Magnús Árni Magnússon
-Sveinn Vignir Isaksen
+* Adam Elí Inguson
+* Magnús Árni Magnússon
+* Sveinn Vignir Isaksen
 
 
 ## Installation
